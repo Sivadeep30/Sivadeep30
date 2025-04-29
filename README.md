@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sivadeep
 - 👀 I’m interested in Web designing 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning DevOps
 - 📫 How to reach me -sivadeepcse@gmail.com
 - ⚡ Fun fact:Loves Cricket
 
